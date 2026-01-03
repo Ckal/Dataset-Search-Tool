@@ -1,5 +1,5 @@
 huggingface_hub
 huggingface
 datasets
-gradio>=4.0.0
+gradio>=4.44.0
 transformers>=4.35.0
